@@ -1,0 +1,6 @@
+requests
+selenium
+pytest
+click
+tqdm
+
